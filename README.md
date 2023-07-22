@@ -1,9 +1,21 @@
 ### Hi there 👋
----
+----
 I'm Varley Ribeiro, aspiring Software Engineer and C# .Net back-end developer, I'm passionate about books and I'm always looking to learn more.
 
 🚀 Expertise
 ----
+My primary focus is on back-end development.
+
+🖥 Tech Stack
+----
+
+🌎 Socials:
+----
+
+GitHub Stats:
+----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 <!--
 **VarleyS/VarleyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
