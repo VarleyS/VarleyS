@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Varley Ribeiro, aspiring Software Engineer and C# .Net back-end developer, I'm passionate about books and I'm always looking to learn more.
 <!--
 **VarleyS/VarleyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
