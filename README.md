@@ -1,10 +1,12 @@
 ### Hi there 👋
 ----
-I'm Varley Ribeiro, aspiring Software Engineer and C# .Net back-end developer, I'm passionate about books and I'm always looking to learn more.
+Olá eu sou o Varley, sou um cara apaixonado por tecnologia,livros e por música.
+
+Nas horas vagas gosto de tocar minha guitarra e cantar com meus filhos.
 
 🚀 Expertise
 ----
-My primary focus is on back-end development.
+Meu foco principal é o desenvolvimento back-end C#, mas venho adiquirindo cada dia mais conhecimento front-end afim de me tonar um profissional FullStack.
 
 🖥 Tech Stack
 ----
