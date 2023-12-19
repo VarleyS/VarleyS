@@ -4,17 +4,18 @@ Olá eu sou o Varley Ribeiro, sou um cara apaixonado por tecnologia,livros e por
 
 🚀 Expertise
 ----
-Meu foco principal é o desenvolvimento back-end C#, mas venho adiquirindo cada dia mais conhecimento front-end afim de me tonar um profissional FullStack.
-Atualmente estudando Angular 9 e Microserviços.
-🌱 Desenvolvimento FullStack (Angular / .Net Core / SQL Server)
+<li>🔭Meu foco principal é o desenvolvimento back-end C#, mas venho adiquirindo cada dia mais conhecimento front-end afim de me tonar um profissional FullStack.</br></li>
+<li>📚Atualmente estudando Angular 9 e Microserviços.</br></li>
+<li>🌱 Desenvolvimento FullStack (Angular / .Net Core / SQL Server)</br></li>
 
 🌎 Socials:
 ----
 [![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varley-ribeiro/)
-
 ![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/641c2b170466977.645e34a7760bf.gif)
+</br>
 
----
+Acessos: ![Visitor Count](https://profile-counter.glitch.me/varleys/count.svg)
+
 
 GitHub Stats:
 ----
