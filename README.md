@@ -12,6 +12,8 @@ Atualmente estudando Angular 9 e Microserviços.
 ----
 [![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varley-ribeiro/)
 
+![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/641c2b170466977.645e34a7760bf.gif)
+
 ---
 
 GitHub Stats:
