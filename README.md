@@ -10,12 +10,19 @@ Atualmente estudando Angular 9 e Microserviços.
 
 🌎 Socials:
 ----
+[![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varley-ribeiro/)
+
+---
 
 GitHub Stats:
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varleys)](https://github.com/varleys/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varleys&show_icons=true&theme=radical)](https://github.com/varleys/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varleys&layout=compact&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varleys&layout=compact)
+Tech stack
+----
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,react,dotnet)](https://skillicons.dev)
+
 <!--
 **VarleyS/VarleyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
