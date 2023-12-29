@@ -1,6 +1,6 @@
 ### Hi there 👋
 ----
-Olá eu sou o Varley Ribeiro, sou um cara apaixonado por tecnologia,livros e por música, nas horas vagas gosto de tocar minha guitarra e cantar com meus filhos.
+Olá eu sou o Varley Ribeiro, sou um cara apaixonado por tecnologia, livros e por música, nas horas vagas gosto de tocar minha guitarra e cantar com meus filhos.
 
 🚀 Expertise
 ----
