@@ -14,8 +14,6 @@ Olá eu sou o Varley Ribeiro, sou um cara apaixonado por tecnologia, livros e po
 ![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/641c2b170466977.645e34a7760bf.gif)
 </br>
 
-Acessos: ![Visitor Count](https://profile-counter.glitch.me/varleys/count.svg)
-
 
 GitHub Stats:
 ----
